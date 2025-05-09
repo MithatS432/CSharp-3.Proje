@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\bin\Debug\Veri Türleri ve Değişkenler1.exe.config
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\bin\Debug\Veri Türleri ve Değişkenler1.exe
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\bin\Debug\Veri Türleri ve Değişkenler1.pdb
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\obj\Debug\Veri Türleri ve Değişkenler1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\obj\Debug\Veri Türleri ve Değişkenler1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\obj\Debug\Veri Türleri ve Değişkenler1.exe
+C:\Users\mitha\source\repos\Veri Türleri ve Değişkenler1\Veri Türleri ve Değişkenler1\obj\Debug\Veri Türleri ve Değişkenler1.pdb
